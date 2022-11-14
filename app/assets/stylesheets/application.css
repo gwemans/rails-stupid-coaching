@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+body{
+  padding: 20px;
+}
+.section{
+  padding: 15px;
+  margin: 15px 0;
+  border-left: 5px solid rgb(184, 184, 184);
+}
+.section p{
+  margin: 0;
+}
+#ans{
+  background-color: rgb(248, 255, 208);
+}
+.link{
+  text-decoration: none;
+}
